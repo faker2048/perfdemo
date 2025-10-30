@@ -44,7 +44,7 @@ C++ OpenMP：32 线程，总 4,000,000,000 次循环，用时 0.021s，吞吐≈
 
 # 如何运行？
 
-## 使用 uvx (推荐)
+## 使用 uvx 
 
 ```
 uvx git+https://github.com/faker2048/perfdemo
