@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(tree:*)",
+      "Bash(python:*)",
+      "Bash(timeout 10 python:*)",
+      "Bash(uv run:*)",
+      "Bash(g++:*)",
+      "Bash(ldd:*)",
+      "Bash(nm:*)",
+      "Read(//home/riko/miniconda3/lib/**)",
+      "Read(//usr/lib/x86_64-linux-gnu/**)",
+      "Bash(conda install:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
